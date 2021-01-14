@@ -7,6 +7,8 @@ In the fights you always start with 100HP and as every turn progress on the same
 
 To start the game, type in your console:
 
-ghci fistOfDeath -- loads the files for the game main -- the main method that will start the game.
+* ghci fistOfDeath -- loads the files for the game 
+
+* main -- the main method that will start the game.
 
 Co-ordinate inputs are (x,y) which are mentioned in the game.
